@@ -1,0 +1,15 @@
+/rtl/work
+/ip
+/sim/modelsim/filter_2d_ciris/work
+/sim/modelsim/filter_2d_ciris/*.vcd
+/sim/modelsim/filter_2d_ciris/wave.do
+/sim/modelsim/filter_2d_ciris/*.wlf
+/sim/modelsim/filter_2d_ciris/transcript
+/sim/modelsim/filter_2d_ciris/*.ini
+/syn/Quartus/tmp-clearbox
+/syn/Quartus/qdb
+/syn/Quartus/*.qsf
+/.qsys_edit
+/*.tcl~
+/rtl/.qsys_edit
+/*.txt
